@@ -1,0 +1,53 @@
+Altium Designer Pick and Place Locations
+F:\Desktop\桌面\PCB_project\AD\F103C8T6最小系统板\F103C8T6\Project Outputs for F103C8T6\Pick Place for F103C8T6.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       19/01/23
+Time:       15:55
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator Comment            Layer       Footprint                            Center-X(mil) Center-Y(mil) Rotation 
+USB1       920-F52A2021S10101 TopLayer    MICRO-USB-SMD_5P_C40957              165.000       495.000       270      
+U2         STM32F103C8T6      TopLayer    LQFP-48_L7.0-W7.0-P0.50-LS9.0-BL     1320.000      495.000       135      
+X2         X50328MSB2GI       TopLayer    CRYSTAL-SMD_L5.0-W3.2                1670.000      495.000       90       
+X1         Q13FC1350000400    BottomLayer FC-135R_L3.2-W1.5                    1350.000      490.000       90       
+U1         AMS1117-3.3_C6186  BottomLayer SOT-223-3_L6.5-W3.4-P2.30-LS7.0-BR   615.000       310.000       180      
+SW3        TS-1187A-B-A-B     TopLayer    SW-SMD_4P-L5.1-W5.1-P3.70-LS6.5-TL-2 810.000       424.920       90       
+SW2        TS-1187A-B-A-B     TopLayer    SW-SMD_4P-L5.1-W5.1-P3.70-LS6.5-TL-2 485.000       424.920       90       
+RESET      TS-1187A-B-A-B     TopLayer    SW-SMD_4P-L5.1-W5.1-P3.70-LS6.5-TL-2 915.000       540.080       270      
+R10        RES_0Ω_0603        BottomLayer R0603                                1735.000      765.000       270      
+R9         RES_1M_0603        BottomLayer R0603                                1795.000      495.000       90       
+R8         RES_1K_0603        BottomLayer R0603                                1795.000      765.000       90       
+R7         RES_1K_0603        BottomLayer R0603                                2040.000      260.000       360      
+R6         RES_10k_0603       BottomLayer R0603                                1605.000      765.000       90       
+R5         RES_4.7K_0603      BottomLayer R0603                                1155.000      305.000       270      
+R4         RES_20Ω_0603       BottomLayer R0603                                1035.000      305.000       270      
+R3         RES_20Ω_0603       BottomLayer R0603                                1095.000      305.000       270      
+R2         RES_10k_0603       BottomLayer R0603                                955.000       760.000       270      
+R1         RES_10k_0603       BottomLayer R0603                                890.000       760.000       270      
+LED2       NCD0805R1          TopLayer    LED0805-Red                          1860.000      715.000       90       
+LED1       NCD0805G1          TopLayer    LED0805-Greed                        1855.000      295.000       90       
+J2         2.54-1*20P直针       TopLayer    HDR-TH_20P-P2.54-V-M-1               1145.000      100.000       180      
+J1         2.54-1*20P直针       TopLayer    HDR-TH_20P-P2.54-V-M-1               1145.000      895.000       180      
+H4         PZ254V-11-04P      TopLayer    HDR-TH_4P-P2.54-V-M                  2040.000      495.000       270      
+BOOT1      2.54-1*3P针         TopLayer    HDR-TH_3P-P2.54-V-M-1                575.000       620.000       180      
+BOOT0      2.54-1*3P针         TopLayer    HDR-TH_3P-P2.54-V-M-1                575.000       725.000       180      
+H1         2.54-1*4P反弯排针      TopLayer    HDR-TH_4P-P2.54-H-M-W10.4            2195.000      495.000       90       
+C14        CAP_100nf          BottomLayer C0603                                970.000       305.000       90       
+C13        CAP_100nf          BottomLayer C0603                                825.000       760.000       270      
+C12        CAP_100nf          BottomLayer C0603                                1670.000      765.000       270      
+C11        CAP_20pf_0603      BottomLayer C0603                                1695.000      415.000       180      
+C10        CAP_100nf          BottomLayer C0603                                1540.000      765.000       270      
+C9         CAP_20pf_0603      BottomLayer C0603                                1700.000      575.000       180      
+C8         CAP_100nf          BottomLayer C0603                                2040.000      190.000       360      
+C7         CAP_12pf_0603      BottomLayer C0603                                1275.000      410.000       90       
+C6         CAP_12pf_0603      BottomLayer C0603                                1275.000      570.000       270      
+C5         CAP_10uf           BottomLayer C0603                                900.000       305.000       90       
+C4         CAP_100nf          BottomLayer C0603                                830.000       305.000       90       
+C3         CAP_100nf          BottomLayer C0603                                390.000       235.000       90       
+C2         CAP_10uf           BottomLayer C0603                                320.000       235.000       90       
+C1         CAP_100nf          BottomLayer C0603                                1860.000      765.000       90       
